@@ -1,0 +1,8 @@
+
+{
+  "name": "EcoSense: Invisible Energy Waste Monitor",
+  "description": "A high-performance dashboard for Raspberry Pi hardware integration, designed to detect and eliminate phantom energy waste in smart infrastructure. Features real-time consumption visualization and spacebar-actuated hardware control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
